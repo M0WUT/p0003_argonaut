@@ -3,5 +3,13 @@
     "name": "Argonaut",
     "description": "Project Management tooling for automatic Github based workflow",
     "url": "https://github.com/m0wut/p0003_argonaut",
-    "documents": {}
+    "documents": {
+        "sw": {
+            "P0003-SW-001": {
+                "name": "Argonaut",
+                "description": "Main Argonaut repo",
+                "url": "https://github.com/m0wut/p0003-sw-001_argonaut"
+            }
+        }
+    }
 }

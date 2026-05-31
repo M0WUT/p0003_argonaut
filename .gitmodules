@@ -1,0 +1,5 @@
+[submodule "software/P0003-SW-001_Argonaut"]
+	path = software/P0003-SW-001_Argonaut
+	url = https://github.com/M0WUT/p0003-sw-001_argonaut.git
+[submodule "software\\P0003-SW-001_Argonaut"]
+	branch = main
